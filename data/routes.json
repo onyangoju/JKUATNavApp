@@ -1,0 +1,47 @@
+{
+    "hall5": {
+      "name": "Hall 5 (2nd Floor)",
+      "steps": [
+        { "description": "Start at Tech House, 4th Floor." },
+        { "description": "Walk away from the Finance Block." },
+        { "description": "Head toward the Student Center." },
+        { "description": "Proceed to Hall 5." },
+        { "description": "Take the stairs or elevator to the Second Floor." }
+      ]
+    },
+    "hrd": {
+      "name": "HR Department",
+      "steps": [
+        { "description": "Start at Tech House." },
+        { "description": "Head north from Tech House." },
+        { "description": "Turn left and walk a short distance." },
+        { "description": "Turn south and continue." },
+        { "description": "Take another left and walk a bit more." },
+        { "description": "Turn right and head straight to HR Department." }
+      ]
+    },
+    "gegis": {
+      "name": "GEGIS (Engineering Lab)",
+      "steps": [
+        { "description": "Begin at Tech House." },
+        { "description": "Head directly to the Finance Block." },
+        { "description": "Continue straight to the Assembly Point." },
+        { "description": "Proceed to Admin Block B." },
+        { "description": "Continue to Admin Block A." },
+        { "description": "Arrive at the Engineering Lab / GEGIS area." }
+      ]
+    },
+    "ieet": {
+      "name": "IEET (2nd Floor)",
+      "steps": [
+        { "description": "Start at Tech House." },
+        { "description": "Head north from Tech House." },
+        { "description": "Turn left and walk a short distance." },
+        { "description": "Turn south and continue." },
+        { "description": "Take another left and walk a bit more." },
+        { "description": "Turn right, passing the HR Department." },
+        { "description": "Continue until you reach IEET. Go to the 2nd floor." }
+      ]
+    }
+  }
+  
